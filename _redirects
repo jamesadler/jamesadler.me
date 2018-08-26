@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://admiring-poitras-b2d482.netlify.com/* https://jamesadler.me/:splat 301!
